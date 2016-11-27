@@ -131,7 +131,7 @@ ______________________________________________________
  /  ' \/ -_|_-<_/_ </ _ \/ _ `/ __/  '_// / _ `/ _ \
 /_/_/_/\__/___/____/_//_/\_,_/\__/_/\_\/_/\_,_/_.__/
 ______________________________________________________                                                    
-DorkSide of GOOLE 1.0 (C) 2014 mes3hacklab
+DorkSide of GOOGLE 1.0 (C) 2014 mes3hacklab
 
 <?php }
 
@@ -150,7 +150,7 @@ php dork.php [-s <shell>] [-st <tld>] [-n <numero>] [-q] [-h] [-nb]
 	-ng		Non aggiungere il proefisso gov alle TLD.
 	-sw		Scambia l'ordine delle parole chiave.
 	-r		Imposta tutto a caso.
-	-nb		Rendi le dork più generiche.
+	-nb		Rendi le dork piÃ¹ generiche.
 	-nc		Non usare le ricerche secondarie specifiche.
 	--list-tld	Stampa la lista delle TLD.
 	--list-shell	Stampa la lista delle shell.
